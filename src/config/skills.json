@@ -1,0 +1,50 @@
+[
+  {
+    "template_image": "/css.webp",
+    "template_name": "imagem da logo CSS"
+  },
+  {
+    "template_image": "/html.webp",
+    "template_name": "imagem da logo HTML"
+  },
+  {
+    "template_image": "/php.webp",
+    "template_name": "imagem da logo PHP"
+  },
+  {
+    "template_image": "/wordpress.webp",
+    "template_name": "imagem da logo Wordpress"
+  },
+  {
+    "template_image": "/tailwind.webp",
+    "template_name": "imagem da logo Tailwind"
+  },
+  {
+    "template_image": "/javascript.webp",
+    "template_name": "imagem da logo Javascript"
+  },
+  {
+    "template_image": "/typescript.webp",
+    "template_name": "imagem da logo Typescript"
+  },
+  {
+    "template_image": "/firebase.webp",
+    "template_name": "imagem da logo Firebase"
+  },
+  {
+    "template_image": "/git.webp",
+    "template_name": "imagem da logo Git"
+  },
+  {
+    "template_image": "/github.webp",
+    "template_name": "imagem da logo Github"
+  },
+  {
+    "template_image": "/vue.webp",
+    "template_name": "imagem da logo Vue"
+  },
+  {
+    "template_image": "/laravel.webp",
+    "template_name": "imagem da logo Laravel" 
+  }
+]

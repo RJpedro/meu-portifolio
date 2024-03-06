@@ -1,0 +1,14 @@
+[
+  {
+    "project_name": "Notizia",
+    "project_description": "Um portal centrado no usuário que foi criado com o objetivo de tornar a informação acessível a todos e entregá-la de maneira exclusiva aos leitores. Contribuí para o desenvolvimento de um recurso notável: um plugin personalizado que transforma os textos em áudios. Essa inovação ampliou o acesso à informação, tornando-o mais inclusivo e impactando positivamente nossos usuários. Além disso, ajudei a permitir que os usuários personalizassem sua experiência de leitura, oferecendo a opção de ajustar o tamanho da fonte. Desempenhei um papel na melhoria dos web vitals do projeto, identificando possíveis áreas de aprimoramento e trabalhando nelas para otimizar o desempenho, a acessibilidade, as políticas recomendadas e o SEO do site. Também ajudei no desenvolvimento de algumas telas, como a página da interna da noticia (single page) e a pagina de tags (tag page).",
+    "project_photo": "/notizia.webp",
+    "project_link": "https://github.com/CaioSouzaC1/Notizia"
+  },
+  {
+    "project_name": "Futebol Api",
+    "project_description": "Um projeto o qual foi desenvolvido em laravel visando auxiliar o gerenciamento de um campeonato futsal. Nesse projeto trabalhei com o recurso apiResource do Laravel para trazer uma melhor organização e padronização das rotas, Observadores visando tirar algumas responsabilidades do Controller mantendo o código mais limpo e legível além de Eventos e Ouvintes para auxiliar esses Observadores.",
+    "project_photo": "/futebol-api.webp",
+    "project_link": "https://github.com/RJpedro/futebol-api"
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "PATH_LOCAL": "./src/assets/img",
+  "PATH_PRODUCTION": "./assets"
+}

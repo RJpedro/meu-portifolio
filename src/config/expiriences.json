@@ -1,0 +1,20 @@
+[
+  {
+    "expirience_title": "Minha primeira experiência na área",
+    "expirience_description": "Minha trajetória profissional começou como estagiário em uma empresa de tecnologia, onde fui imerso no universo do desenvolvimento web, trabalhando com PHP puro, HTML, CSS, Bootstrap, JavaScript e posteriormente jQuery (comecei do zero, tendo pouca experiência com php, sem conhecimento nenhum de javascript e sem se quer saber o que era jQuery). Durante um ano nessa função, aprimorei minhas habilidades técnicas, além de estabelecer uma base sólida no desenvolvimento web.",
+    "expirience_photo": "/maistop.webp",
+    "expirience_photo_alt": "Foto da empresa Maistop"
+  },
+  {
+    "expirience_title": "Primeira experiência pós estágio",
+    "expirience_description": "Através de muita dedicação e comprometimento me renderam uma efetivação e a chance de crescer profissionalmente na empresa. Fui transferido para empresa do mesmo grupo (Plus Intelligence), onde continuei a aprimorar essas minhas habilidades. Nessa nova empresa tive a oportunidade de mergulhar em projetos desafiadores que envolviam o framework Laravel, podendo expandir ainda mais meu conhecimento.",
+    "expirience_photo": "/plus_intelligence.webp",
+    "expirience_photo_alt": "Foto da empresa Plus Intelligence"
+  },
+  {
+    "expirience_title": "Onde estou atualmente ?",
+    "expirience_description": "Atualmente, estou empregado na empresa Objective, onde tenho a oportunidade de trabalhar em projetos que envolvem tecnologias como WordPress, Tailwind, Bootstrap, jQuery e JavaScript. Nos primeiros mêses fui direcionado para a equipe Bomdiamercado e posteriormente transferido para o Estadão. Em ambas equipes desempenho um papel visando o sucesso dos projetos, desenvolvendo novas funcionalidades (como na bomdiamercado onde fiquei responsável pela integração com gateway de pagamentos da maxipago!), aprimorando funcionalidades já existentes (em muita das vezes deixando as páginas em si mais dinâmicas utilizando-se de acf's), otimizando o site (melhorando métricas de google search, marfeel adoption, web vitals).",
+    "expirience_photo": "/objective.webp",
+    "expirience_photo_alt": "Foto da empresa Objective"
+  }
+]
